@@ -281,7 +281,6 @@ int main(int argc, char* argv[]) {
     for (int i = 0; i < size; i++)
     {
         MPI_Barrier(MPI_COMM_WORLD);
-        MPI_Barrier(MPI_COMM_WORLD);
         if (i == rank)
         {
           print_rows(my_rows, rank);
