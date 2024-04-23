@@ -1,4 +1,6 @@
 #!/bin/bash
+#testing script for life.cpp
+#the number of processes is set to 4 but can be changed tested with 1, 2 and 4 
 
 # Check if the number of arguments is correct
 if [ "$#" -ne 2 ]; then

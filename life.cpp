@@ -6,7 +6,7 @@
  * The program prints the end state of the game on the standard output.
  * The size of word is given by the size of the matrix in input file.
  * All the walls are considered as dead cells.
- * Should work with any number of processes. Tested with 4
+ * Should work with any number of processes. Tested with 4, 2, 1
  ***/
 
 
